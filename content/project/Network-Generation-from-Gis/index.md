@@ -8,11 +8,11 @@ authors:
 - Lorenza
 tags: 
 - GIS
-- Network
+- Network Optimisation
 - Disaster Management
 - Evacuation Planning
 - Flow Model
-- Optimization Model
+
   
 categories: []
 date: 2021-02-09T17:08:43+01:00
