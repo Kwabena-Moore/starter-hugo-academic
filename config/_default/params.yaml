@@ -6,8 +6,15 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme: "ocean"   #"minimal" "1950s" "coffee" "forest"  "mrrobot" "apogee" "dark" "ocean" "rose" "strawberry"
+
+  # Enable users to switch between day and night mode?
+  day_night: true
+
+  #theme_day: minimal
+  #theme_night: minimal
+  # Choose a font size.
+  # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
   font: minimal
   font_size: L
 
@@ -18,10 +25,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: ''
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'UA-98320547-1'
     baidu_tongji: ''
   verification:
     google: ''
@@ -58,19 +65,20 @@ locale:
 # Site features
 
 features:
-  syntax_highlighter:
+  syntax_highlighter: 
     enable: true
     extra_languages:
       - r
       - latex
+      - python
   math:
-    enable: false
+    enable: true #false
   diagram:
-    enable: false
+    enable: true #false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/Kwabena-Moore/starter-hugo-academic'
     content_dir: content
     branch: master
   avatar:
@@ -106,3 +114,4 @@ extensions:
     enable: true
   academicons:
     enable: true
+
