@@ -6,10 +6,10 @@ summary: "An emergeny evacuation modeling framework to help evacuees in times of
 authors: 
 - admin
 tags: 
-- evacuation
-- optimization
-- model
-- pedestrain
+- Emergency Evacuation
+- Network Optimisation 
+- Simulation
+
   
 - categories: []
 date: 2021-02-09T19:07:30+01:00

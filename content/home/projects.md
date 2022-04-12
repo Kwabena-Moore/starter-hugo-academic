@@ -29,14 +29,24 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
-  - name: Modelling
-    tag: Modelling
+  - name: Emergency Pedestrian Evacuation
+    tag: Emergency Evacuation
   - name: Simulation 
     tag: Simulation 
-  - name: COP 
-    tag: COP
+  - name: Network Optimisation 
+    tag: Network Optimisation
   - name: Other
-    tag: Demo  
+    tag: Demo 
+  - name: Geographical Information Sysytem
+    tag: GIS
+  - name: Disater Management
+    tag: Disater Management
+  - name: Evacuation Planning 
+    tag: Evacuation Planning
+  - name: Flow Model
+    tag: Flow Model
+
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
