@@ -15,7 +15,7 @@ appearance:
   #theme_night: minimal
   # Choose a font size.
   # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-  font: minimal
+  #font: minimal
   font_size: L
 
 # SEO
