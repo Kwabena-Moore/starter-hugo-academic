@@ -7,7 +7,7 @@ authors:
 - Lorenza Pasquini
 - Claudio Arbib
 - Antinisca Di Marco
-- Eliseo Clementni
+- Eliseo Clementini
 
 date: 2021-02-09T16:54:17+01:00
 doi: " 10.5220/0010452302410252"
